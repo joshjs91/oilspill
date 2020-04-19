@@ -11,10 +11,6 @@ import java.util.Set;
 
 public class OilSpillMapTest {
 
-    //TODO test that it cleans up the oil
-
-    //TODO test that move direction moves
-
     @Test
     void movesCleanerUpForNorthInstruction() {
         Point grid = new Point(2, 2);
